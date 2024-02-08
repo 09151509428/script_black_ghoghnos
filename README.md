@@ -1,5 +1,7 @@
 # script_black_ghoghnos
 
+# ABZAR HAY MORED NIYAS
+
 *1* apt update
 *2* apt upgrade
 *3* pkg install python
