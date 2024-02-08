@@ -29,7 +29,7 @@ green='\033[32m'
 blue='\033[36m'
 pink='\033[35m'
 rang='\033[34m'
-# SCRIPT :
+# SCRIPT : RUN
 
 os.system("clear")
 
