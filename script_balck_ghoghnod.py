@@ -142,6 +142,7 @@ if up == "1":
         print("GHOGHNOS BLACK / BLACK GHOGHNOS / AMIR SALIMAN / QOQNOS SIAH / AMIR REZA LUCIFER")
 
 
+
         
 elif up == "2":
     print(f'\033[32m')
