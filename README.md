@@ -2,21 +2,21 @@
 
 # ABZAR HAY MORED NIYAS
 
-*1* apt update
-*2* apt upgrade
-*3* pkg install python
-*4* pkg install python2
-*5* pkg install python3
-*6* pkg install git
-*7* pkg install nano
+**1** apt update
+**2** apt upgrade
+**3** pkg install python
+**4** pkg install python2
+**5** pkg install python3
+**6** pkg install git
+**7** pkg install nano
 
 # START RUN
 
-_1_ git clone https://github.com/09151509428/script_black_ghoghnos.git
-_2_ ls
-_3_ cd script_black_ghoghnos
-_4_ ls
-_5_ script_black_ghoghnos.py
+__1__ git clone https://github.com/09151509428/script_black_ghoghnos.git
+__2__ ls
+__3__ cd script_black_ghoghnos
+__4__ ls
+__5__ script_black_ghoghnos.py
 
 # EROR KETABKHANE
 >1 pip install socket
